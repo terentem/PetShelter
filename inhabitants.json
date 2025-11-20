@@ -1,0 +1,92 @@
+[
+  {
+    "type": "dog",
+    "breed": "peackme",
+    "gender": "male",
+    "chipCode": "no",
+    "name": "Jo",
+    "eyesColor": "brown",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "18.11.2025"
+  },
+  {
+    "type": "cat",
+    "breed": "sphynx",
+    "gender": "female",
+    "chipCode": "804635473625341",
+    "name": "Aisha",
+    "eyesColor": "whire and grey",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "18.11.2025"
+  },
+  {
+    "type": "cat",
+    "breed": "pixie bob",
+    "gender": "male",
+    "chipCode": "804958600984573",
+    "name": "Ra",
+    "eyesColor": "white and gold",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "18.11.2025"
+  },
+  {
+    "type": "cat",
+    "breed": "peackme",
+    "gender": "female",
+    "chipCode": "no",
+    "name": "Nina",
+    "eyesColor": "mixed white and grey and gold",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "18.11.2025"
+  },
+  {
+    "type": "dog",
+    "breed": "peackme",
+    "gender": "male",
+    "chipCode": "no",
+    "name": "Arthur",
+    "eyesColor": "grey",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "18.11.2025"
+  },
+  {
+    "type": "dog",
+    "breed": "peackme",
+    "gender": "male",
+    "chipCode": "no",
+    "name": "Grey",
+    "eyesColor": "grey",
+    "responsiblePerson": "Regina Rorge",
+    "registrationDate": "19.11.2025"
+  },
+  {
+    "type": "cat",
+    "breed": "home",
+    "gender": "male",
+    "chipCode": "804335423456782",
+    "name": "Shon",
+    "eyesColor": "Red",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "19.11.2025"
+  },
+  {
+    "type": "dog",
+    "breed": "galgo",
+    "gender": "female",
+    "chipCode": "804736451003872",
+    "name": "Kali",
+    "eyesColor": "silver",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "20.11.2025"
+  },
+  {
+    "type": "dog",
+    "breed": "unknown",
+    "gender": "female",
+    "chipCode": "no",
+    "name": "Zita",
+    "eyesColor": "gold",
+    "responsiblePerson": "Regina Gorge",
+    "registrationDate": "20.11.2025"
+  }
+]

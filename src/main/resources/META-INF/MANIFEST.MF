@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: D:\Education\java\PetShelter\src\main\java\org\example\Main
+
