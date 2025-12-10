@@ -1,7 +1,7 @@
 [
   {
     "type": "dog",
-    "breed": "peackme",
+    "breed": "peeckme",
     "gender": "male",
     "chipCode": "no",
     "name": "Jo",
@@ -41,7 +41,7 @@
   },
   {
     "type": "dog",
-    "breed": "peackme",
+    "breed": "peeckme",
     "gender": "male",
     "chipCode": "no",
     "name": "Arthur",
