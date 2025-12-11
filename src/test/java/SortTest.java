@@ -3,8 +3,10 @@ import org.example.utils.Sort;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
+
 import java.util.ArrayList;
 import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -14,6 +16,7 @@ public class SortTest {
 
     @BeforeAll
     public static void initTestData() {
+
         List<String> names = List.of("C", "A", "D", "B", "F", "E");
         List<String> types = List.of("dog", "cat", "snake", "dog", "cat", "snake");
         List<Inhabitant> inhabitants = new ArrayList<>();
@@ -24,6 +27,7 @@ public class SortTest {
             inhabitants.add(inhabitant);
         }
         dataForTest = inhabitants;
+
         dataForTestForNPE = new ArrayList<>();
         for (Inhabitant inh : dataForTest) {
             Inhabitant copy = new Inhabitant();
@@ -31,7 +35,7 @@ public class SortTest {
             copy.setType(inh.getType());
             dataForTestForNPE.add(copy);
         }
-        dataForTestForNPE.get(3).setName(null);//дані для тесту на NullPointExeption
+        dataForTestForNPE.get(3).setName(null);//дані для тесту на NullPointerExeption
     }
 
     @Test
